@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Quiz Quest",
+  "description": "An interactive and fun quiz application for kids, powered by Gemini. Users can sign in with their Google account, choose a topic, and get a dynamically generated quiz. Scores are saved to track progress.",
+  "requestFramePermissions": []
+}
